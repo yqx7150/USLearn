@@ -1,0 +1,6 @@
+model_checkpoint_path: "cvae_MSJhalf_SIATunproc_fcl500_lat60_ns50_ps2841_7.7"
+all_model_checkpoint_paths: "cvae_MSJhalf_SIATunproc_fcl500_lat60_ns50_ps2837_7.7"
+all_model_checkpoint_paths: "cvae_MSJhalf_SIATunproc_fcl500_lat60_ns50_ps2838_7.7"
+all_model_checkpoint_paths: "cvae_MSJhalf_SIATunproc_fcl500_lat60_ns50_ps2839_7.7"
+all_model_checkpoint_paths: "cvae_MSJhalf_SIATunproc_fcl500_lat60_ns50_ps2840_7.7"
+all_model_checkpoint_paths: "cvae_MSJhalf_SIATunproc_fcl500_lat60_ns50_ps2841_7.7"
